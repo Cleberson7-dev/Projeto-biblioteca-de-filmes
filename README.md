@@ -121,11 +121,13 @@ Depois, abra o `index.html` no navegador. Se preferir, use a extensão **Live Se
 
 ## 👨‍💻 Desenvolvedores
 
-**Ronald Eli** [![GitHub](https://img.shields.io/badge/GitHub-ronaldeli-181717?style=flat&logo=github)](https://github.com/ronaldeli)<br>
-**Ittalo Henrique** [![GitHub](https://img.shields.io/badge/GitHub-Ittalohsilva-181717?style=flat&logo=github)](https://github.com/Ittalohsilva)<br>
-**Cleberson Santos** [![GitHub](https://img.shields.io/badge/GitHub-Cleberson7-181717?style=flat&logo=github)](https://github.com/Cleberson7)<br>
-**Victor Matheus** [![GitHub](https://img.shields.io/badge/GitHub-Victor98-181717?style=flat&logo=github)](https://github.com/Victor98)<br>
-**Vinicius Queiroz** [![GitHub](https://img.shields.io/badge/GitHub-ViniciusQueiroz18-181717?style=flat&logo=github)](https://github.com/ViniciusQueiroz18)
+| Nome Completo | GitHub |
+| :--- | :--- |
+| **Ronald Eli** | [![GitHub](https://img.shields.io/badge/GitHub-ronaldeli-181717?style=flat&logo=github)](https://github.com/ronaldeli) |
+| **Ittalo Henrique** | [![GitHub](https://img.shields.io/badge/GitHub-Ittalohsilva-181717?style=flat&logo=github)](https://github.com/Ittalohsilva) |
+| **Cleberson Santos** | [![GitHub](https://img.shields.io/badge/GitHub-Cleberson7-181717?style=flat&logo=github)](https://github.com/Cleberson7) |
+| **Victor Matheus** | [![GitHub](https://img.shields.io/badge/GitHub-Victor98-181717?style=flat&logo=github)](https://github.com/Victor98) |
+| **Vinicius Queiroz** | [![GitHub](https://img.shields.io/badge/GitHub-ViniciusQueiroz18-181717?style=flat&logo=github)](https://github.com/ViniciusQueiroz18) |
 
 ---
 
