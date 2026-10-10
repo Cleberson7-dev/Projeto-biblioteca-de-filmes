@@ -139,4 +139,10 @@ Arquitetura e Organização do Código: Auxílio na estruturação modular do pr
 Refinamento e Boas Práticas: Revisão de trechos de código para garantir responsividade, acessibilidade (uso do elemento nativo <dialog> e atributos ARIA) e tratamento adequado de erros no localStorage.
 
 Documentação e Organização: Suporte na formatação e redação da documentação oficial (README.md), estruturação de tabelas de contribuidores e padronização visual dos selos (badges) do GitHub.
-<div
+<div align="center">
+
+# 🎬 Biblioteca de Filmes
+
+**Projeto acadêmico desenvolvido para a faculdade com o objetivo de criar uma aplicação web completa para gerenciamento e catálogo pessoal de filmes.**
+
+</div>
