@@ -134,5 +134,12 @@ Depois, abra o `index.html` no navegador. Se preferir, use a extensão **Live Se
 <div align="center">
 
 Desenvolvido com dedicação para fins de estudo
+  
+🤖 O papel da Inteligência Artificial no projeto
+A Inteligência Artificial (IA) foi utilizada como ferramenta de suporte e coautoria ao longo do desenvolvimento do projeto, atuando nas seguintes frentes:
 
-</div>
+Arquitetura e Organização do Código: Auxílio na estruturação modular do projeto em HTML semântico, estilização com CSS moderno (utilizando variáveis, Flexbox e Grid) e lógica em JavaScript puro para gerenciamento de estado e manipulação do DOM.
+
+Refinamento e Boas Práticas: Revisão de trechos de código para garantir responsividade, acessibilidade (uso do elemento nativo <dialog> e atributos ARIA) e tratamento adequado de erros no localStorage.
+
+Documentação e Organização: Suporte na formatação e redação da documentação oficial (README.md), estruturação de tabelas de contribuidores e padronização visual dos selos (badges) do GitHub.</div>
